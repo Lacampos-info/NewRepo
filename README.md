@@ -28,27 +28,30 @@ Se você encontrar erros, tiver sugestões ou quiser contribuir com exemplos adi
 
 Vamos aprender juntos! 🌟
 
-Learning Repository
-This repository is dedicated to learning the C and Java programming languages. It contains materials, exercises, and projects related to the Development of Systems (SENAI) and Computer Science (UNIFACS) courses.
 
-Objectives
+
+# Learning Repository
+This repository is dedicated to learning the C and Java programming languages. 
+It contains materials, exercises, and projects related to the Development of Systems (SENAI) and Computer Science (UNIFACS) courses.
+
+# Objectives
 Learn the fundamental concepts of C and Java.
 Practice problem-solving and develop small projects.
 Share knowledge and collaborate with other students.
 Terms of Use
 This repository is exclusively for academic purposes. You can:
 
-Study the source code.
+# Study the source code.
 Make modifications and improvements.
 Use the examples in your own academic projects.
 You cannot:
 
-Use the code for commercial purposes.
+# Use the code for commercial purposes.
 Copy or distribute the content without proper attribution.
 Use the code in projects unrelated to education.
 Always respect copyrights and licenses associated with any source code you find here.
 
-Contributions
+# Contributions
 If you find errors, have suggestions, or want to contribute additional examples, feel free to open an issue or submit a pull request.
 
 Let’s learn together! 🌟
