@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <locale.h>
+
+int main(int argc, char** argv) {
+    setlocale(LC_ALL, "Portuguese_Brazil.1252"); // Set the locale to Portuguese (Brazil)
+    int num = 0;
+    printf("Digite um número: ");
+    scanf("%d", &num);
+    if (num > 0){
+    	printf("O número é positivo!");
+	}else {
+		printf("O número é negativo!");
+	}
